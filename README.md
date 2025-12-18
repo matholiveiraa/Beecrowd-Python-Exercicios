@@ -1,2 +1,12 @@
-# beecrowd-python-exercicios
-Exercícios do beecrowd resolvidos em Python como parte do meu estudo de lógica, if/else e laços de repetição. Algumas soluções foram expandidas para explorar interação com o usuário e boas práticas.
+# beecrowd-python
+
+Repositório com exercícios do beecrowd resolvidos em Python,
+utilizando os conceitos estudados no momento.
+
+## Conteúdo
+- Lógica básica
+- Estruturas condicionais (if/else)
+- Laços de repetição (em andamento)
+
+## Objetivo
+Registrar minha evolução no aprendizado de programação.
